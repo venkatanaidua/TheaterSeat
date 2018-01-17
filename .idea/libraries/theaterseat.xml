@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="theaterseat">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/theaterseat.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
